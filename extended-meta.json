@@ -1,0 +1,25 @@
+{
+	"info": {
+		"url_png_icon_64x64": "http://logo-64-64.harborstakepool.com",
+		"url_png_logo": "http://logo.harborstakepool.com",
+		"location": "Valley Center, United States",
+		"social": {
+			"telegram_handle": "DANBOATS",
+			"discord_handle": "Sugarnips#1248",
+		},
+		"company": {
+            "city": "Valley Center",
+            "country": "United States"
+        },
+		"about": {
+			"me": "Single Pool Operator",
+			"server": "Solar Powered Bare Metal Servers - HW configuration of servers CPU:8core|RAM:32G|SSD:1TB"
+		},
+		"my-pool-ids": {
+			"0": "aa5fc91d88b98507943118997ff06f6cd2e27cd8d79d7e89e7f406b9"
+		},
+		"when-satured-then-recommend": {
+			"0": "small pools - support decentralization"
+		}
+	}
+}
